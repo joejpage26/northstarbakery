@@ -4,7 +4,7 @@ North Star Bakery — Touchstone 4
 This project continues the development of the North Star Bakery website for Client A. 
 It builds upon the HTML and CSS work completed in previous Touchstones.
 
-## Touchstone 4: Enhancing Interactivity and Client-Side Data
+## Touchstone 4: Enhancing Interactivity and Client-Side Data 
 The primary objective of Touchstone 4 was to introduce meaningful JavaScript functionality 
 to the existing North Star Bakery website. This was achieved without disrupting the HTML, 
 CSS, navigation, media, responsive design, or form functionalities that were already in place.
