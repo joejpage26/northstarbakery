@@ -1,14 +1,17 @@
-North Star Bakery Website
+# North Star Bakery Website
+## Project Overview
+This repository houses my North Star Bakery website project, which I developed for Sophia Learning’s 
+Introduction to Web Development course. The website was designed for **Client A**, a neighborhood bakery 
+that focuses on products. The project aims to assist local customers, commuters, families, and event 
+planners in learning about the bakery, exploring its products, and submitting inquiries or pre-order requests.
 
-This repository contains the website project created for Client A – North Star Bakery. The website was meticulously designed and developed based on the client’s specifications, branding, and provided content.
+The website’s development was progressive, involving multiple Touchstones. 
+Each assignment built upon the work completed in the previous stage.
 
-Project Overview
-The primary objective of this project was to create a user-friendly, inviting, and intuitive website for North Star Bakery. The website serves as a platform to showcase the bakery’s products, provide valuable information about the business, and offer customers a seamless way to explore the bakery’s offerings.
+## Note for Instructor
+"To facilitate independent review of each submitted version of the North Star Bakery website, 
+I’ve organized this repository into separate folders for each Touchstone. This separation ensures 
+that later Touchstones build upon and modify the work from earlier Touchstones without altering 
+the original versions completed for earlier assignments."
 
-Project Files
-
-* HTML: This file provides the structural framework and content of the website.
-* CSS: This file controls the layout, colors, fonts, and overall visual appearance of the website.
-* Images: This file contains the images and graphics used throughout the website.
-* Videos: This file contains video content that enhances the website’s visual appeal.
-* Audio: This file contains audio content that complements the website’s multimedia elements.
+Please select the appropriate Touchstone folder below when reviewing my submission.
