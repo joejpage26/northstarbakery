@@ -7,7 +7,7 @@ planners in learning about the bakery, exploring its products, and submitting in
 
 The website’s development was progressive, involving multiple Touchstones. 
 Each assignment built upon the work completed in the previous stage.
-
+ 
 ## Note for Instructor
 "To facilitate independent review of each submitted version of the North Star Bakery website, 
 I’ve organized this repository into separate folders for each Touchstone. This separation ensures 
